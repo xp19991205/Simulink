@@ -1,1 +1,4 @@
 ① differential：S域求解带初值条件的电路微分方程
+②bus:介绍总线的用法
+③介绍MUX的用法
+④Half_wave_rectification：Switch利用阈值输出功能完成半波整流和方波的产生。
