@@ -2,3 +2,4 @@
 ②bus:介绍总线的用法
 ③介绍MUX的用法
 ④Half_wave_rectification：Switch利用阈值输出功能完成半波整流和方波的产生。
+⑤relative_logical_operation.slx ：相对运算（比较数值或对NAN INF进行判断），逻辑运算（包括逻辑或、与、非）
